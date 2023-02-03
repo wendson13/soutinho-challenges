@@ -9,6 +9,12 @@ export const Container = styled.main`
   background: ${(props) => props.theme.colors.neutral[900]};
 `;
 
+export const GithubLink = styled.a`
+  position: absolute;
+  top: 0;
+  right: 0;
+`;
+
 export const Title = styled.h1`
   text-align: center;
   font-size: 4rem;
