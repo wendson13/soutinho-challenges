@@ -3,6 +3,7 @@
 ## ✨ Desafios
 
 - [Border Radius Previewer - 001](apps/border-radius-previewer/)
+- [Flags with CSS - 002](apps/flags-with-css/)
 
 ## 🧑‍💻 Como executar
 
