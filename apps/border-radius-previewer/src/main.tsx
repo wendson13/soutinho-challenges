@@ -1,10 +1,9 @@
-import { GlobalStyle } from '@styles/global';
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import { ThemeProvider } from 'styled-components';
-import { theme } from 'ui';
+import { GlobalStyle, theme } from 'ui';
 import { App } from './App';
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
